@@ -1,6 +1,6 @@
-# Linked
+# Hi there, I'm Hamza Khan! 👋
 
-Welcome to **Linked**, a versatile project designed and developed by a passionate Software Engineer with expertise in Laravel, PHP, and CodeIgniter. This repository showcases the implementation of modern web development principles and best practices.
+Welcome to my GitHub profile, a versatile project designed and developed by a passionate Software Engineer with expertise in Laravel, PHP, and CodeIgniter. This repository showcases the implementation of modern web development principles and best practices.
 
 ## About Me
 
