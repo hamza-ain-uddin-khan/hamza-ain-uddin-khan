@@ -8,6 +8,7 @@ Hi, I'm Hamza Khan, a Software Engineer specializing in backend development. I h
 - **Frontend**: HTML, CSS, JavaScript
 - **Database**: MySQL or other relational databases
 - **Tools & Platforms**: Composer, Git, Apache
+- **Additional Skills**: Website Security, Website Optimization
 
 
 Feel free to explore my repositories and reach out for collaboration opportunities or just to say hi! 😊
