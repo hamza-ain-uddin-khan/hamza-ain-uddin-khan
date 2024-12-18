@@ -1,11 +1,11 @@
 ## About Me 👋
 
-Hi, I'm Hamza Khan, a Software Engineer specializing in backend and full-stack development. I have a strong foundation in **Laravel**, **PHP**, with a proven track record of delivering robust and scalable solutions.
+Hi, I'm Hamza Khan, a Software Engineer specializing in backend development. I have a strong foundation in **Laravel**, **PHP**, with a proven track record of delivering robust and scalable solutions.
 
 ## Tools and Languages
 
 - **Backend**: Laravel, CodeIgniter, PHP, OctoberCMS, Joomla, Smarty
-- **Frontend**: HTML, CSS, JavaScript (optional to expand)
+- **Frontend**: HTML, CSS, JavaScript
 - **Database**: MySQL or other relational databases
 - **Tools & Platforms**: Composer, Git, Apache
 
