@@ -1,16 +1,22 @@
-## Hi there 👋
+# Linked
 
-<!--
-**hamza-ain-uddin-khan/hamza-ain-uddin-khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to **Linked**, a versatile project designed and developed by a passionate Software Engineer with expertise in Laravel, PHP, and CodeIgniter. This repository showcases the implementation of modern web development principles and best practices.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Hamza Khan, a Software Engineer specializing in backend and full-stack development. I have a strong foundation in **Laravel**, **PHP**, with a proven track record of delivering robust and scalable solutions.
+
+## Features
+
+- **Laravel Integration**: Leveraging the power of Laravel for clean, maintainable, and scalable code.
+- **CodeIgniter Simplicity**: Designed with lightweight frameworks for high performance.
+- **PHP Core Expertise**: Utilized PHP's core functionalities to enhance flexibility and customization.
+- **Modular Architecture**: Built with a modular approach for ease of expansion and maintenance.
+- **Secure Development**: Implements best practices for application security.
+
+## Technologies Used
+
+- **Backend**: Laravel, CodeIgniter, PHP, OctoberCMS
+- **Frontend**: HTML, CSS, JavaScript (optional to expand)
+- **Database**: MySQL or other relational databases
+- **Tools & Platforms**: Composer, Git, Apache
