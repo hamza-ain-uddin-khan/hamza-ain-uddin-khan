@@ -6,7 +6,7 @@ Hi, I'm Hamza Khan, a Software Engineer specializing in backend development. I h
 
 ## Tools and Languages
 
-- **Backend**: Laravel, CodeIgniter, PHP, OctoberCMS, Joomla, Smarty
+- **Backend**: Laravel, CodeIgniter, PHP, OctoberCMS, Wordpress, Joomla, Smarty template
 - **Frontend**: HTML, CSS, JavaScript
 - **Database**: MySQL or other relational databases
 - **Tools & Platforms**: Composer, Git, Apache
